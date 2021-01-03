@@ -1,6 +1,6 @@
 Flask-MySQL==1.4.0
 itsdangerous==0.24
-Jinja2==2.10
+Jinja2==2.10.1
 MarkupSafe==1.0
 mysql==0.0.1
 mysql-connector==2.1.4
